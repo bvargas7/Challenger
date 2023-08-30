@@ -17,5 +17,5 @@ Puntos a Seguir:
 Deberán Marcar la Asistencia , La asistencia a estos últimos dias ES OBLIGATORIA
 5) Se leerán las instrucciones para el challenger
 6) Se proporcionará una liga del repositorio GIT con toda la documentación necesaria para iniciar
-7) Se proporcionará el sistema a testear una vez que el equipo de desarrollo libere completamente el producto, FAVOR DE LEER COMPLETAMENTE LA DOCUMENTACION, organizarse , preparar Jira , diseñar todos los casos de prueba y haber investigado un homebanking de un banco de su preferencia para darse una idea.
+7) Se proporcionará el sistema a testear una vez que el equipo de desarrollo libere completamente el producto, FAVOR DE LEER COMPLETAMENTE LA DOCUMENTACION, organizarse , preparar Jira , diseñar todos los casos de prueba y haber investigado un homebanking ( Banca Móvil ) de un banco de su preferencia para darse una idea.
 
