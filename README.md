@@ -10,8 +10,8 @@ NO HABRÁ AYUDA SOBRE CÓMO REALIZAR LO QUE SE PIDE EN EL CHALLENGE
 
 Puntos a Seguir:
 
-1) Utilizar las 2.5 horas de clase para trabajar como equipo, el link de zoom permanecerá abierto durante todo el challenge Y 3.5 Horas los dias de Help desk.
-2) Los mentores estarán presentes para tomar lista y para resolver dudas sobre el CONTENIDO DE LOS ARCHIVOS de las instrucciones del challenge
+1) Utilizar las  horas de clase para trabajar como equipo, el link de zoom permanecerá abierto durante todo el challenge 
+2) Los mentores estarán presentes para tomar lista y para resolver dudas sobre el CONTENIDO DE LOS ARCHIVOS NO de las instrucciones del challenge
 3) No se contestarán dudas sobre las Historias de Usuario  o Criterios de Aceptación que el cliente proporcionó al equipo de Dev
 4) No habrá un líder definido por lo tanto cada uno de los integrante del equipo será el responsable de llevar una daily ( opcional: Pueden invitar a un mentor o  a su  coordinadora para que los acompañe en su daily)
 Deberán Marcar la Asistencia , La asistencia a estos últimos dias ES OBLIGATORIA
